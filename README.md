@@ -1,7 +1,9 @@
-### Brenden Cosman
+# Brenden Cosman
+## Undergrad Mount Allison University 26' BSc Computer Science  <img alt="MTA Logo" src="https://pbs.twimg.com/profile_images/1675831756308508672/XEieLmNR_400x400.jpg" width="60" height="60"/>
 
-# Undergrad Mount Allison University 26' BSc Computer Science
-<picture>
-  <img alt="MTA Logo" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Mount_Allison_University_Seal.svg/1200px-Mount_Allison_University_Seal.svg.png" width="40" height="40"></img>
-</picture>
-
+### Experience/Languages
+<ul>
+  <li>Minor Front End experience (JavaScript/React.js, HTML, CSS)</li>
+  <li>Java</li>
+  <li>Python</li>
+</ul>
