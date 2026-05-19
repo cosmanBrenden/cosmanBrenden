@@ -1,9 +1,6 @@
-# Brenden Cosman
-## Undergrad Mount Allison University 26' BSc Computer Science  <img alt="MTA Logo" src="https://pbs.twimg.com/profile_images/1675831756308508672/XEieLmNR_400x400.jpg" width="60" height="60"/>
+# Welcome to my GitHub profile!
+> I am a recent Mount Allison University graduate with a Bachelor's of Science in Computer Science!
 
-### Experience/Languages
-<ul>
-  <li>Minor Front End experience (JavaScript/React.js, HTML, CSS)</li>
-  <li>Java</li>
-  <li>Python</li>
-</ul>
+[![Linkedin: Brenden](https://img.shields.io/badge/-Brenden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenden-cosman-9ba37321a/)](https://www.linkedin.com/in/brenden-cosman-9ba37321a/)
+[![GitHub Brenden](https://img.shields.io/github/followers/cosmanBrenden?label=follow&style=social)](https://github.com/cosmanBrenden)
+
